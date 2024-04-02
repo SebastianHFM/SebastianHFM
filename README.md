@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Analyst QA Junior** at https://www.aclti.com/es/
+- 🏢 I am currently working as a **Analyst QA** at https://www.aclti.com/es/
 - 🎓 Studies for Software Analyst at https://ciisa.cl/
 - 🏡'Lives in **Santiago Chile**
 
