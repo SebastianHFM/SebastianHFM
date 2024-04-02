@@ -21,6 +21,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,docker,java,js,flutter,figma,html,css,mysql,github,postman,linux,bash,selenium,bootstrap,discord,gherkin,heroku,idea,nodejs,postgres,powershell,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,docker,aws,java,js,flutter,figma,html,css,mysql,github,postman,linux,bash,selenium,bootstrap,discord,gherkin,heroku,idea,nodejs,postgres,powershell,visualstudio,vscode" />
   </a>
 </p>
