@@ -8,7 +8,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Analyst QA** at https://www.aclti.com/es/
-- 🎓 Studies for Software Analyst at https://ciisa.cl/
+- 🎓 Studies for Software Analyst at https://ipss.cl/
 - 🏡'Lives in **Santiago Chile**
 
 <br>
