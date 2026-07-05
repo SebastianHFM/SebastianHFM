@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Analyst QA** at https://technologylatam.com/
+- 🏢 I am currently working as a **Analyst QA** at (https://www.tcs.com/)
 - 🎓 Studies for Software Analyst at https://ipss.cl/
 - 🏡'Lives in **Santiago Chile**
 
